@@ -35,6 +35,6 @@
     ]
   },
   "paths": {
-    "zippedPackage": "solution/corporate-directory.sppkg"
+    "zippedPackage": "solution/corporate-directory-csv.sppkg"
   }
 }
